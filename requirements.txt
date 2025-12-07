@@ -1,0 +1,31 @@
+# Core LangChain
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-experimental>=0.0.40
+langchain-openai>=0.0.5
+
+# LangGraph for agent workflows
+langgraph>=0.0.20
+
+# Neo4j
+neo4j>=5.0.0
+
+# PDF processing
+pypdf>=3.0.0
+
+# FastAPI backend
+fastapi>=0.109.0
+uvicorn[standard]>=0.25.0
+pydantic>=2.0.0
+
+# Streamlit frontend
+streamlit>=1.30.0
+
+# HTTP client for UI -> API calls
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Embeddings (optional, for sentence-transformers fallback)
+sentence-transformers>=2.2.0
