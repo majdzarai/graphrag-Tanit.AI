@@ -1,8 +1,10 @@
-
+# graphrag-Tanit.AI
 
 **Agentic AI System for Knowledge Graph Retrieval-Augmented Generation**
 
 Created by **Majd Zarai**
+
+> A modular Agentic AI system that combines knowledge graphs with Large Language Models for intelligent question answering using Neo4j, LangGraph, and FastAPI.
 
 ---
 
@@ -102,8 +104,8 @@ app/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/graphrag-munchen.git
-cd graphrag-munchen
+git clone https://github.com/majdzarai/graphrag-Tanit.AI.git
+cd GRAPHY-V1-MAIN
 ```
 
 2. **Create virtual environment**
